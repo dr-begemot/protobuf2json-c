@@ -1,5 +1,4 @@
-protobuf2json-c
-===============
+# protobuf2json-c
 
 This is `protobuf2json-c`, pure C implementation of the [Google Protocol Buffers] to/from JSON converter.
 
